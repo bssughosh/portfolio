@@ -1,0 +1,19 @@
+.tools {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.toolItem {
+  border: 1px solid rgba(43, 43, 43, 0.568);
+  border-radius: 10px;
+  padding: 10px;
+  background: #7c529c;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  margin: 10px;
+}
+
+.toolItem:hover {
+  background: #49315c;
+}
