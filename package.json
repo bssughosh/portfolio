@@ -1,6 +1,6 @@
 {
-  "name": "bssughosh.github.io",
-  "version": "0.3.0",
+  "name": "portfolio",
+  "version": "1.0.0",
   "homepage": "https://sughoshsudhanvan.com/",
   "private": true,
   "dependencies": {
